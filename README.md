@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JamesPettit94
 - 👀 I’m interested in all things development, front end, back end, and some rear ends. I'm also interested in learning as much as I can in this new world.
-- 🌱 I’m currently learning ##everything## haha.
+- 🌱 I’m currently learning everything haha.
 - 💞️ I’m looking to collaborate on different frameworks, and creating beautiful web applications.
 - 📫 How to reach me jamespettit94@gmail.com
 
